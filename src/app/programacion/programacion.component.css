@@ -12,9 +12,6 @@
   width: 100%;
  }
   .movie-img {
-    width: 100%;
-    height: 380px;
-    background-image: url(https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/274917435_131726046036683_8698961912462993744_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=8L14MbM0dHsAX_ZAlbE&_nc_ht=scontent-bog1-1.xx&oh=00_AT8-Mfp_5hKn5q-cfCj1Zj6C5mV2a82A1ovWS777QIVFug&oe=621ECAEF);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -24,9 +21,6 @@
     position: relative;
   }
   .movie-img2 {
-    width: 100%;
-    height: 380px;
-    background-image: url(https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/274918621_131726719369949_7959279179873448985_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=03uGHniPtuYAX_8CFOr&_nc_ht=scontent-bog1-1.xx&oh=00_AT-QVsozPN8HXUJNwoTNMOd1lR_bibQY6DppousiT96fwQ&oe=621EDC7C);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -37,9 +31,6 @@
     position: relative;
   }
   .movie-img3 {
-    width: 100%;
-    height: 380px;
-    background-image: url(https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/274855349_131742749368346_5704662673925062944_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=M_QU_9y2CH8AX_siKy2&_nc_ht=scontent-bog1-1.xx&oh=00_AT9SGKc1jo_5-IMC5jMcuVIbLEDb_lwngy83o32fC4Wmkw&oe=621EC1B1);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -50,9 +41,6 @@
     position: relative;
   }
   .movie-img4 {
-    width: 100%;
-    height: 380px;
-    background-image: url(https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/274903571_131729939369627_8142554041416434599_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=9ZwYz-uvobMAX8xQalp&_nc_ht=scontent-bog1-1.xx&oh=00_AT8pS7HIPUjH7qiovpeBTCH8GLY2fndvTLAz7q-fgoEthw&oe=6220058A);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -63,9 +51,6 @@
     position: relative;
   }
   .movie-img5 {
-    width: 100%;
-    height: 380px;
-    background-image: url(https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/274900984_131725139370107_1894207740161710380_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=ZWCb0RWHel4AX8wxVum&_nc_oc=AQnfS82jcCj-kmhVnb96uzOoap6qpA7F21K4Wry_bocY4e_LKgHL2dfKzSJ-iq_Pkok&_nc_ht=scontent-bog1-1.xx&oh=00_AT-8HqADe-1pN9tc25_B3qC5yqUft2k7EoL7a_J1mbYklA&oe=621F3E68);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -76,9 +61,6 @@
     position: relative;
   }
   .movie-img6 {
-    width: 100%;
-    height: 380px;
-    background-image: url(https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/274918005_131726552703299_3724230279059420698_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=EIfQC6WlIC4AX-lCJrR&_nc_ht=scontent-bog1-1.xx&oh=00_AT8Z2gb1OW4v4B9UJdqVZXxcfO7xAGmOKh2sVYJZvGuWNA&oe=621E8B87);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -89,9 +71,6 @@
     position: relative;
   }
   .movie-img7 {
-    width: 100%;
-    height: 380px;
-    background-image: url(https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/274921097_131726796036608_1092168587556718435_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=82w_0K4Dc3IAX-OfdZR&_nc_ht=scontent-bog1-1.xx&oh=00_AT-vEvHoQbF9GPqyqheL0D6c4vgj50bVy_GuVsanG8Updw&oe=621F9F9E);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -102,9 +81,6 @@
     position: relative;
   }
   .movie-img8 {
-    width: 100%;
-    height: 380px;
-    background-image: url(https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/274925347_131724672703487_3458648179553796717_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=hRg9QAlsdD0AX8_nI8S&tn=jDRzb9Pv68N-dasA&_nc_ht=scontent-bog1-1.xx&oh=00_AT-41ga-6GEODRHCRu0qUdKivHv0sNo8O8FXkhS7LjfQ7g&oe=621F4C5A);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
